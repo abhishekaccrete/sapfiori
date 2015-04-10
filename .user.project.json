@@ -1,0 +1,16 @@
+{
+  "run": [
+    {
+      "filePath": "/accrete_sample/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 1172351,
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}
